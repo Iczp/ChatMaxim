@@ -1,5 +1,5 @@
 # IczpNet.ChatMaxim
 
-A Chat project by AbpVnext
+A Chat project by AbpVnext0
 
 ## ChatMaxim
